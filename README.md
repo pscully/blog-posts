@@ -1,2 +1,3 @@
-# blog-posts
-Blog posts written for Scully Media collection of websites.
+# Blog Posts
+
+This is a simple repository for keeping drafts and published versions of my blog articles. 
